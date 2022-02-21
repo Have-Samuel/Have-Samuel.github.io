@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://127.0.0.1:5502/)
+[Live Demo Link](http://127.0.0.1:5502/)
 
 
 ## Getting Started
