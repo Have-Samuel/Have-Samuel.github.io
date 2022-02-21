@@ -1,62 +1,37 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio
 
-> Description the project.
+> My Works, resume and capabilities are all defined.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS 
+- CSS Grid and Flexbox
+- Git & Github workflow
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://127.0.0.1:5502/)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+Basic HTML & CSS practice, Git & Github workflow CSS Grid & Flexbox Figma Designs and installations of the Linters
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+## HTML & CSS 
+## Flexbox && CSS Grid 
+## Linters installation
 
 ## Authors
 
-👤 **Author1**
+👤 **Have-Samuel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@githubhandle](https://github.com/Have-Samuel)
+- Twitter: [@twitterhandle](https://twitter.com/home)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/feed)
 
 ## Show your support
 
@@ -64,9 +39,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-Thanks to Microverse
 
 ## 📝 License
 
